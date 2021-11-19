@@ -4,7 +4,7 @@ class BubbleAlert extends Component {
     render() {
         return (
             <span>
-                5
+                +5
             </span>
         )
     }
